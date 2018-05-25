@@ -1,6 +1,6 @@
 ### Canary
 
-##### a.k.a A/B
+##### a.k.a A/B, Test in Production
 
 O Deploy da nova versão é feito em metade dos recursos, sem que eles estejam disponíveis para os usuários.
 A nova versão é testada e se estiver tudo ok, é feito o chaveamento dos usuários gradual ou de apenas parte deles.
