@@ -1,7 +1,5 @@
 ### Reckless Deployment
 
-##### a.k.a Reckless Deployment
-
 Atualiza todas as máquinas ao mesmo tempo, geralmente deixando o serviço indisponível por alguns momentos (ou horas).
 Pode ser a melhor (mais barata) estratégia em sistemas não críticos.
 
