@@ -1,12 +1,12 @@
-#Deployment Strategies.
+#Estratégias de Deploy
 
-### Index
+### Índice
 
 * Stop & Go
 * Rolling up (Gradual)
 * Blue/Green
 * Canary
 * Versioned Deployment
-* Container Deployments
+* Container Deployment
 * Database Deployment
-
+* [Referências](./Referencias/index.md)
